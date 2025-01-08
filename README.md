@@ -1,0 +1,3 @@
+# Multi-Armed Bandit for the Cyclic Minimum Sitting Arrangement Problem
+
+Paper under review...
